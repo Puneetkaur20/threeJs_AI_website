@@ -2,6 +2,8 @@
 
 This repository contains the code for a 3D product website built using ThreeJS and React, two popular technologies for creating interactive web applications with 3D graphics.
 
+![3](https://user-images.githubusercontent.com/84036525/230363836-24228878-65de-4b9a-aa23-dbb39e36468c.png)
+
 # Importance
 
 * 3D websites have become increasingly important in today's digital landscape as they provide a unique and engaging user experience. Artificial intelligence (AI) also plays a significant role in the development of 3D websites. 
