@@ -18,6 +18,9 @@ This repository contains the code for a 3D product website built using ThreeJS a
 * Utilize the power of DALLE AI to generate and integrate images into your project, such as the resulting t-shirt model image which can be downloaded for use in your designs.
 * Improve your website's performance and ensure its responsiveness across all devices, optimizing the user experience and boosting engagement.
 
+![4](https://user-images.githubusercontent.com/84036525/230364201-1262f1f9-d616-407a-b772-6f03601a2109.png)
+![5](https://user-images.githubusercontent.com/84036525/230364245-91d9074a-ff23-40c5-93a5-d9264cbeb3bf.png)
+
 * ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
 * React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
 * TailwindCSS - a popular utility-first CSS styling framework
