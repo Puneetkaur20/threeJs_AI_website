@@ -25,3 +25,6 @@ This repository contains the code for a 3D product website built using ThreeJS a
 * React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
 * TailwindCSS - a popular utility-first CSS styling framework
 * Framer Motion - the most popular library used to bring your React website to life with animations
+
+![1](https://user-images.githubusercontent.com/84036525/230364537-8c163e4c-921a-42ab-9716-285559df19da.png)
+![2](https://user-images.githubusercontent.com/84036525/230364544-704c3da3-1fef-40d3-a054-1609f1bd8793.png)
